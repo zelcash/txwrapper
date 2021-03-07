@@ -2,12 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [3.10.12](https://github.com/paritytech/txwrapper/compare/v3.10.6...v3.10.12) (2021-03-07)
+### [3.10.12](https://github.com/paritytech/txwrapper/compare/v3.10.11...v3.10.12) (2021-03-02)
+
+### [3.10.11](https://github.com/paritytech/txwrapper/compare/v3.10.10...v3.10.11) (2021-02-23)
 
 
 ### Bug Fixes
 
-* Silence misleading error message when decoding signed tx ([#343](https://github.com/paritytech/txwrapper/issues/343)) ([1c9166e](https://github.com/paritytech/txwrapper/commit/1c9166e21b9c8cfa7264331a934abc0fbb7e03fd))
+* Update `RewardDestination` for `staking.setPayee` ([#393](https://github.com/paritytech/txwrapper/issues/393)) ([bdafb18](https://github.com/paritytech/txwrapper/commit/bdafb18530e9b3556dbbeda5401fbaf259683093))
+
+### [3.10.10](https://github.com/paritytech/txwrapper/compare/v3.10.9...v3.10.10) (2021-02-15)
 
 ### [3.10.9](https://github.com/paritytech/txwrapper/compare/v3.10.8...v3.10.9) (2021-02-10)
 
