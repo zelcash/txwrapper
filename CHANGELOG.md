@@ -2,6 +2,112 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [7.0.1](https://github.com/paritytech/txwrapper/compare/v7.0.0...v7.0.1) (2021-06-07)
+
+
+### Bug Fixes
+
+* **types:** Update polkadot-js deps to get the latest types ([#455](https://github.com/paritytech/txwrapper/issues/455)) ([795338b](https://github.com/paritytech/txwrapper/commit/795338b755cf9faf344e5319e8350518c00ae909))
+
+## [7.0.0](https://github.com/paritytech/txwrapper/compare/v4.1.0...v7.0.0) (2021-06-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* update required node version to >= 14.0.0 (#428)
+
+### Features
+
+* update required node version to >= 14.0.0 ([#428](https://github.com/paritytech/txwrapper/issues/428)) ([9d53919](https://github.com/paritytech/txwrapper/commit/9d539199fd15562cf7f41164f5bafd121e676ab8))
+
+
+### Bug Fixes
+
+* **types:** Bump polkadot-js deps to get latest types ([#443](https://github.com/paritytech/txwrapper/issues/443)) ([274bce0](https://github.com/paritytech/txwrapper/commit/274bce0697658d8aaa630bb3451f1baa9381e1ba))
+* build script ([#434](https://github.com/paritytech/txwrapper/issues/434)) ([debaba4](https://github.com/paritytech/txwrapper/commit/debaba488f0409663f24f3681099c58a1b3094d6))
+* Bump polkadot-js/api; Remove deprecated createType log option ([#438](https://github.com/paritytech/txwrapper/issues/438)) ([16e13db](https://github.com/paritytech/txwrapper/commit/16e13dbec6ea1469c687f4143cef2d6888eb8aca))
+* update polkadot, fix decorateConstants bug ([#433](https://github.com/paritytech/txwrapper/issues/433)) ([fd8689a](https://github.com/paritytech/txwrapper/commit/fd8689a6a39c8f7b0a7b7327f3c675a2192fe440))
+
+## [6.0.0](https://github.com/paritytech/txwrapper/compare/v4.1.0...v6.0.0) (2021-06-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* update required node version to >= 14.0.0 (#428)
+
+### Features
+
+* update required node version to >= 14.0.0 ([#428](https://github.com/paritytech/txwrapper/issues/428)) ([9d53919](https://github.com/paritytech/txwrapper/commit/9d539199fd15562cf7f41164f5bafd121e676ab8))
+
+
+### Bug Fixes
+
+* **types:** Bump polkadot-js deps to get latest types ([#443](https://github.com/paritytech/txwrapper/issues/443)) ([274bce0](https://github.com/paritytech/txwrapper/commit/274bce0697658d8aaa630bb3451f1baa9381e1ba))
+* build script ([#434](https://github.com/paritytech/txwrapper/issues/434)) ([debaba4](https://github.com/paritytech/txwrapper/commit/debaba488f0409663f24f3681099c58a1b3094d6))
+* Bump polkadot-js/api; Remove deprecated createType log option ([#438](https://github.com/paritytech/txwrapper/issues/438)) ([16e13db](https://github.com/paritytech/txwrapper/commit/16e13dbec6ea1469c687f4143cef2d6888eb8aca))
+* update polkadot, fix decorateConstants bug ([#433](https://github.com/paritytech/txwrapper/issues/433)) ([fd8689a](https://github.com/paritytech/txwrapper/commit/fd8689a6a39c8f7b0a7b7327f3c675a2192fe440))
+
+## [5.0.0](https://github.com/paritytech/txwrapper/compare/v4.1.0...v5.0.0) (2021-05-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* update required node version to >= 14.0.0 (#428)
+
+### Features
+
+* update required node version to >= 14.0.0 ([#428](https://github.com/paritytech/txwrapper/issues/428)) ([9d53919](https://github.com/paritytech/txwrapper/commit/9d539199fd15562cf7f41164f5bafd121e676ab8))
+
+
+### Bug Fixes
+
+* build script ([#434](https://github.com/paritytech/txwrapper/issues/434)) ([debaba4](https://github.com/paritytech/txwrapper/commit/debaba488f0409663f24f3681099c58a1b3094d6))
+* update polkadot, fix decorateConstants bug ([#433](https://github.com/paritytech/txwrapper/issues/433)) ([fd8689a](https://github.com/paritytech/txwrapper/commit/fd8689a6a39c8f7b0a7b7327f3c675a2192fe440))
+
+## [4.1.0](https://github.com/paritytech/txwrapper/compare/v4.0.3...v4.1.0) (2021-04-22)
+
+
+### Features
+
+* Add `proxy.anonymous` ([0440e50](https://github.com/paritytech/txwrapper/commit/0440e50aa78e652ffc47d9c4f426e4d40cabf057))
+
+### [4.0.3](https://github.com/paritytech/txwrapper/compare/v4.0.2...v4.0.3) (2021-04-19)
+
+
+### Bug Fixes
+
+* Bump polkadot-js scroped deps to get latest types ([#424](https://github.com/paritytech/txwrapper/issues/424)) ([bed18dd](https://github.com/paritytech/txwrapper/commit/bed18ddc773e35a4e53e5c7fcec6cb6ce64cfeeb))
+
+### [4.0.2](https://github.com/paritytech/txwrapper/compare/v4.0.1...v4.0.2) (2021-03-29)
+
+
+### Bug Fixes
+
+* **types:** Update deps to get latest polkadot-js types ([#415](https://github.com/paritytech/txwrapper/issues/415)) ([d5f3f40](https://github.com/paritytech/txwrapper/commit/d5f3f40eabf3e82a41dc88a9dd4fbd693cc5beae))
+
+### [4.0.1](https://github.com/paritytech/txwrapper/compare/v4.0.0...v4.0.1) (2021-03-23)
+
+
+### Bug Fixes
+
+* **docs:** createSigningPayload docs specify handling payloads > 256 bytes ([#410](https://github.com/paritytech/txwrapper/issues/410)) ([1fb0f41](https://github.com/paritytech/txwrapper/commit/1fb0f4105bbfa0af034562252aa5d037ee3b9fc7))
+
+## [4.0.0](https://github.com/paritytech/txwrapper/compare/v3.10.12...v4.0.0) (2021-03-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **types:** polkadot/api to v4 w. esm; Use substrate/dev for build (#404)
+
+### Features
+
+* Add pallet methods `crowdloan.{contrbute, withdraw}` ([#409](https://github.com/paritytech/txwrapper/issues/409)) ([f881f86](https://github.com/paritytech/txwrapper/commit/f881f860a8d95bdf6530e715eca7b751162081cf)), closes [#407](https://github.com/paritytech/txwrapper/issues/407)
+
+
+### Bug Fixes
+
+* **types:** polkadot/api to v4 w. esm; Use substrate/dev for build ([#404](https://github.com/paritytech/txwrapper/issues/404)) ([2280218](https://github.com/paritytech/txwrapper/commit/228021831ffa2f45002ddd5825ccd7a0e8a86ada))
+
 ### [3.10.12](https://github.com/paritytech/txwrapper/compare/v3.10.11...v3.10.12) (2021-03-02)
 
 ### [3.10.11](https://github.com/paritytech/txwrapper/compare/v3.10.10...v3.10.11) (2021-02-23)
